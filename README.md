@@ -1,2 +1,2 @@
-# Phyton1
+# Python1
 Mubert-Text-to-Music
